@@ -1,1 +1,3 @@
-export * as wCanvas from './wCanvas/wCanvas.js';
+import wCanvas from './wCanvas/wCanvas.js'
+
+export default wCanvas;
