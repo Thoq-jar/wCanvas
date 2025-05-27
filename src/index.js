@@ -1,1 +1,1 @@
-export * from './wCanvas/wCanvas.js';
+export * as wCanvas from './wCanvas/wCanvas.js';
