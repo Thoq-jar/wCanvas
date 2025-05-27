@@ -10,7 +10,7 @@ npm install @thoq/wcanvas
 ## Usage
 ```js
 import express from 'express';
-import wCanvas from 'wCanvas';
+import {wCanvas} from 'wCanvas';
 
 const port = 9595;
 const host = "0.0.0.0";
