@@ -1,0 +1,15 @@
+{
+  "name": "wcanvas",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Thoq",
+  "license": "MIT",
+  "description": "A hot webview for the web",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
