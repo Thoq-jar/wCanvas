@@ -1,5 +1,5 @@
 {
-  "name": "wcanvas",
+  "name": "@thoq/wcanvas",
   "version": "1.0.0",
   "main": "src/index.js",
   "type": "module",
@@ -7,7 +7,14 @@
   "author": "Thoq",
   "license": "MIT",
   "description": "A hot webview for the web",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoq-jar/wCanvas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thoq-jar/wCanvas/issues"
+  },
+  "homepage": "https://github.com/Thoq-jar/wCanvas#readme"
 }
