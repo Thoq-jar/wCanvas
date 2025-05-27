@@ -2,6 +2,11 @@
 
 A webview for the web 😎
 
+## Installing
+```shell
+npm install @thoq/wcanvas
+```
+
 ## Usage
 ```js
 import express from 'express';
