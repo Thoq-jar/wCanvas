@@ -7,6 +7,8 @@
   "author": "Thoq",
   "license": "MIT",
   "description": "A hot webview for the web",
+  "private": false,
+  "homepage": "https://github.com/Thoq-jar/wCanvas#readme",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
@@ -16,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/Thoq-jar/wCanvas/issues"
   },
-  "homepage": "https://github.com/Thoq-jar/wCanvas#readme"
+  "publishConfig": {
+    "access": "public"
+  }
 }
