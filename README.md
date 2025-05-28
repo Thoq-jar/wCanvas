@@ -37,7 +37,7 @@ const html = `
     <h1>Hello, World!</h1>
     
     <!-- vvvvv This tells wCanvas to inject a webview -->
-    <!-- @wCanvas [inject url https://www.google.com] -->
+    <wCanvas url="https://example.com" />
 </body>
 </html>`
 let app = express();
