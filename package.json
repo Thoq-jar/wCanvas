@@ -1,6 +1,6 @@
 {
   "name": "@thoq/wcanvas",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "src/index.js",
   "type": "module",
   "scripts": {},
@@ -9,8 +9,9 @@
   "description": "A hot webview for the web",
   "private": false,
   "homepage": "https://github.com/Thoq-jar/wCanvas#readme",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Thoq-jar/wCanvas.git"
